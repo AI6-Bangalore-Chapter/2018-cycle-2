@@ -1,6 +1,7 @@
 Some online courses (in no particular order) on machine learning -  
 
 [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
+
 Slightly outdated yet still fundamental for anyone wishing to explore the world of machine learning.
 
 [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) by Bloomberg
