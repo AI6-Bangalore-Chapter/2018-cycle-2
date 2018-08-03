@@ -1,4 +1,4 @@
-Some online courses (in no particular order) on machine learning -  
+# Some online courses (in no particular order) on machine learning -  
 
 [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng
 
