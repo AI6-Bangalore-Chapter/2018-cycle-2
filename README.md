@@ -8,4 +8,5 @@ Sessions folder consists of videos, links, notebooks etc that are discussed in t
 Roadmap is the study schedule that is followed in the Bangalore chapter of AI Saturdays.
 
 [1] : (https://nurture.ai/ai-saturdays)
+
 [2] : https://join.slack.com/t/aisaturdays/shared_invite/enQtMjk3ODIyOTk2NTc4LTU5YzUwMDYzYTQwOTM5NTY2NmQ0YmY0YzIyYWIyMGY4YTMyNTIxY2I1ZDdmNjc5NjI2ZWY2YmJiZTYzY2FmNmE
