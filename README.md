@@ -5,4 +5,4 @@ This repository contains the contents covered in different sessions of AI Saturd
 
 Sessions folder consists of videos, links, notebooks etc that are discussed in the sessions. Resources folder consists of relevant codes, research papers, tutorials, videos etc that will be invaluable for further learning. 
 
-Roadmap is the study schedule that is followed in the Bangalore chapter of AI Saturdays.
+[Roadmap](https://github.com/AI6-Bangalore-Chapter/2018-cycle-2/blob/master/Roadmap.md) is the study schedule that is followed in the Bangalore chapter of AI Saturdays.
