@@ -6,8 +6,6 @@ Following links were recommended for the respective purposes.
 
 [An interesting playlist by 3Blue1Brown - Linear algebra tutorial](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Linear algebra will be required for future sessions.
 
-The recording of the session can be accessed [here] (https://www.youtube.com/watch?v=O-3PNcnpaPM).
-
-
+The recording of the session can be accessed [here](https://www.youtube.com/watch?v=O-3PNcnpaPM).
 
 
