@@ -3,7 +3,7 @@
 
 |Week| Morning Session (10:30 to 01:00)| Evening Session (02:00 to 04:00) |
 |---|---|---|
-| 1  | Introduction, Previous recap, Part1 deeplearning.ai  | live assignment, rest |
+| 1  | Introduction, Previous week recap, Part1 deeplearning.ai  | Git demo, Numpy and Pandas exercises, live assignment, rest |
 | 2 | Part2 deeplearning.ai  | live assignment, rest |
 | 3  | fast.ai lesson 1  |  dynamic routine |
 | 4  | fast.ai lesson 2  |  dynamic routine |
