@@ -8,3 +8,5 @@ Slightly outdated yet still fundamental for anyone wishing to explore the world 
 
 [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/?siteID=SAyYsTvLiGQ-HbCNG18kN7BYbEq0tmVi4w&LSNPUBID=SAyYsTvLiGQ) by Kirill Eremenko, Hadelin de Ponteves, and the SuperDataScience Team via Udemy.
 
+[Python, Pandas, Matplotlib tutorials](https://github.com/io99/Resources) 
+
