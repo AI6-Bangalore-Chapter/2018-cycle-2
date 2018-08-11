@@ -1,4 +1,4 @@
-Following are some of the resouces that are referred in the sessions and also can be useful for your own personal exploration.
+Following are some of the resouces that are referred in the sessions and can also be useful for your own personal exploration.
 
 [Summary notes for deeplearning.ai](https://github.com/mbadry1/DeepLearning.ai-Summary)
 
