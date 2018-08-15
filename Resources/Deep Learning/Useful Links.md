@@ -5,3 +5,9 @@ Following are some of the resouces that are referred in the sessions and can als
 [Beautiful notes of deeplearning.ai](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 
 [YouTube playlists of deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)
+
+[Clever Machine blog(How neural network works, backpropogation etc] (https://theclevermachine.wordpress.com/) 
+
+[Understanding CNN's] (https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+
+[Convolutional Neural network for visual recognition from Stanford ] (https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv )
