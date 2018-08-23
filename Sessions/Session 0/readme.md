@@ -1,4 +1,4 @@
-The first session of AI Saturdays (cycle 2) was held at NVIDIA Complex, Bangalore on 4th August 2018. It had lots of healthy interactions and enthusiastic discussions.
+The first session of AI Saturdays (cycle 2) was held at NVIDIA Complex, Bangalore on 4th August 2018. It was basically a meet and greet session and had lots of healthy interactions and enthusiastic discussions.
 
 The jupyter notebooks in the session 1 folder are useful introductory material.
 
