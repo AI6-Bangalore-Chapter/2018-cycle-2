@@ -7,5 +7,6 @@ The motive of this sub-repo is to accumulate resources/tips dedicated for deploy
 ### Description:
 Here's a brief description about the contents of this sub-repo ordered according to the time of the upload.
 
-**Choosing_Hardware.md** : Consists of various factors to be considered/aware of while choosing hardware for your deep learning application. 
-**Conda-cheatsheet.pdf** : A collection of various useful commands for using conda.
+1. **Choosing_Hardware.md** : Consists of various factors to be considered/aware of while choosing hardware for your deep learning application. 
+2. **Conda-cheatsheet.pdf** : A collection of various useful commands for using conda.
+3. **Template_Notebook.ipynb** : Includes initial and helper code snippets to work smoothly on Google Colab. 
