@@ -7,7 +7,7 @@
 
 ### Deep Learning.ai notes 
 
-1. [Notes1](https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/3-%20Structuring%20Machine%20Learning%20Projects) - Summary notes of deeplearning.ai -  part 1.
+1. [Notes1](https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/3-%20Structuring%20Machine%20Learning%20Projects) - Summary notes of deeplearning.ai - course 3.
 
 2. [Notes2](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng) - Beautiful notes for deeplearning.ai
 
