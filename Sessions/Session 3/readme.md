@@ -1,7 +1,7 @@
 ### Schedule:
-<br>[10:00 - 11:30] deeplearning.ai 1st Course</br>
+<br>[10:00 - 11:30] deeplearning.ai 3rd Course</br>
 <br>[11:30 - 11:45] Short break</br>
-<br>[11:45 - 12:30] deeplearning.ai 1st Course</br>
+<br>[11:45 - 12:30] deeplearning.ai 3rd Course</br>
 <br>[12:30 - 13:30] Lunch (not provided)</br>
 <br>[13:30 - 15:00] Neural Nets from scratch (numpy, keras, pytorch)</br>
 
