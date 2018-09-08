@@ -1,4 +1,4 @@
-# AI 6 : Session 5
+# AI 6 : Session 4
 
 #### Good Morning and welcome to the ai6 team.
 
