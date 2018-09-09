@@ -59,6 +59,5 @@ Yes, this is the future. I think everybody agrees to that, as it serves as the m
 
 
 # Please find shark and whale classification.
-https://github.com/satyajittarai/AI6-Assignments/blob/master/sharkwhale.ipynb
-
+https://github.com/satyajittarai/2018-cycle-2/blob/master/sharkwhale.ipynb
 I copied all code from you :)
