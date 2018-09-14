@@ -38,9 +38,9 @@ Let's start with
 ## Fast.ai Lesson
 forked from [GitHub - Sharwon/fastai-intro-kit: Help you get started with with fast.ai](https://github.com/Sharwon/fastai-intro-kit)
 
-https://colab.research.google.com/github/Sharwon/fastai-intro-kit/blob/master/fastai_lesson1_dogsvscats.ipynb  
+https://colab.research.google.com/github/Sharwon/fastai-intro-kit/blob/master/fastai_lesson1_dogsvscats.ipynb   
 
-**Notes Lec1** --> http://forums.fast.ai/t/deeplearning-lec1notes/7089
+**Notes Lec1** --> http://forums.fast.ai/t/deeplearning-lec1notes/7089  
 **Notes Lec2** --> http://forums.fast.ai/t/deeplearning-lecnotes2/7515
 
 # Afternoon Session
