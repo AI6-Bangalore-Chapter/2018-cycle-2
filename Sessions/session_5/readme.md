@@ -56,6 +56,9 @@ https://colab.research.google.com/github/Sharwon/fastai-intro-kit/blob/master/py
 ### pytoch : mnist 3blue1brown example.
 [YouTube_3blue1brown_NN](https://youtu.be/aircAruvnKk)
 
+### kaggle dog breeds
+https://www.kaggle.com/c/dog-breed-identification
+
 # Resources
 1. forums.fast.ai
 2. https://medium.com/@GeneAshis/fast-ai-season-1-episode-2-1-e9cc80d81a9d
