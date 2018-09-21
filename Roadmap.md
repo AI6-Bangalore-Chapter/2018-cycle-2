@@ -7,8 +7,8 @@
 | 1  | Introduction, Previous week recap| Part1 deeplearning.ai  | Git demo, Numpy and Pandas exercises|
 | 2 | ''|Part2 deeplearning.ai  | dynamic routine |
 | 3  | ''| Part3 deeplearning.ai  |  NN (backprop) in numpy. Introduction to DL frameworks |
-| 4  |'' |fast.ai lesson 1  | dynamic routine |
-| 5  |'' | fast.ai lesson 2 |  dynamic routine |
+| 4  |'' |fast.ai intro kit  | fast.ai lesson 1 |
+| 5  |'' | fast.ai lesson 2 |  Pytorch Fundamentals, NN in pytorch, multiclass-classification example |
 | 6  | ''| fast.ai lesson 3 |  dynamic routine |
 | 7  | ''|fast.ai lesson 4  | dynamic routine |
 | 8  | ''| fast.ai lesson 5 | dynamic routine |
