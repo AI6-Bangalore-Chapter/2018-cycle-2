@@ -13,7 +13,7 @@
 - 4:30 - Ddecoding resNet
 
 ##### 5:48 - Fast.ai course overview
-<picture>
+![](https://www.zerotosingularity.com/img/fast-ai-part-1-lesson-1-annotated-notes/fast-ai-part-1-course-structure.png)
 
 ##### 8:23 - Kaggle : Understanding the Amazon from space 
 - 9:00 - How to download data 
@@ -49,20 +49,7 @@
 - #### Deep Convolution networks (Inside-out)
 - #### Kaggle : Attempt an kaggle problem with an interesting dataset
 
-<meme>
-
 ---
-
-
-
-
-
-
-
-
-
-
-
 
 #### How does an computer understand an image
 ![](https://cdn-images-1.medium.com/max/1600/1*ccVO7341XIh7GfvzQS1IGw.png)
@@ -89,11 +76,12 @@ And if this set is big one, it's **Deep Convolution networks**, the deep learnin
 ## Convloutions in-depth: We'll look at a single convolution in action. Combinations of various of these convolutions results in various architectures.
 
 > ### Convolutions in-detail: 
-- #### Input : how do we take it?
-  - What does resnet take as input
+
 - #### strides & Padding
   - ##### Strides concept : 
     ![](https://github.com/vdumoulin/conv_arithmetic/raw/master/gif/no_padding_strides.gif)
+    - Why?
+      - Choosing based on the sparsity of information on the input
   - ##### Padding concept:
     ![](https://github.com/vdumoulin/conv_arithmetic/raw/master/gif/same_padding_no_strides.gif)
     - Why:
