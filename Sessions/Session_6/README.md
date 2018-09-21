@@ -49,7 +49,20 @@
 - #### Deep Convolution networks (Inside-out)
 - #### Kaggle : Attempt an kaggle problem with an interesting dataset
 
+<meme>
+
 ---
+
+
+
+
+
+
+
+
+
+
+
 
 #### How does an computer understand an image
 ![](https://cdn-images-1.medium.com/max/1600/1*ccVO7341XIh7GfvzQS1IGw.png)
