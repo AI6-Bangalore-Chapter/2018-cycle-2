@@ -135,6 +135,7 @@ And if this set is big one, it's **Deep Convolution networks**, the deep learnin
 - [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
 - - Book : Pyhon for Data analysis by Wes McKinney
 - [fastai lesson notes](http://forums.fast.ai/t/wiki-lesson-3/9401)
+- [Convolutional Networks by Andrej Karpathy](http://cs231n.github.io/convolutional-networks/)
 --- 
 
 > ### Assignment:
