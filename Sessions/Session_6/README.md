@@ -114,7 +114,7 @@ And if this set is big one, it's **Deep Convolution networks**, the deep learnin
   - when to use what : In classifying cats vs. dogs, averaging over the image tells us "how doggy or catty is this image overall." Since a large part of these images are all dogs and cats, this would make sense. If you were using max pooling, you are simply finding "the most doggy or catty" part of the image, which probably isn't as useful. However, this may be useful in something like the fisheries competition, where the fish occupy only a small part of the picture.
 
 > ### Combining CNNs and FCNNs to do what we do : example of a deep CNN:
-![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/4e2c0880b1c224d3bd88f52805f620c4c3dc882c/3-Figure1-1.png)
+![](https://github.com/AI6-Bangalore-Chapter/2018-cycle-2/blob/master/Sessions/Session_6/pretrained.png)
 - What
 - why
 
