@@ -1,6 +1,6 @@
 # Proposed Experiments
 
-1. Perofrmance of different optimizers.
+1. Performance of different optimizers.
 
 ----
 # Other Experimnets
