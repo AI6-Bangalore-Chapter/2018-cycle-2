@@ -9,7 +9,7 @@
 | 3  | ''| Part3 deeplearning.ai  |  NN (backprop) in numpy. Introduction to DL frameworks |
 | 4  |'' |fast.ai intro kit  | fast.ai lesson 1 |
 | 5  |'' | fast.ai lesson 2 |  Pytorch Fundamentals, NN in pytorch, multiclass-classification example |
-| 6  | ''| fast.ai lesson 3 |  dynamic routine | Discussion on the Kaggle competition - Planet:Understanding Amazon from the Space|
+| 6  | ''| fast.ai lesson 3 |  Discussion on the Kaggle competition - Planet:Understanding Amazon from the Space|
 | 7  | ''|fast.ai lesson 4  | dynamic routine |
 | 8  | ''| fast.ai lesson 5 | dynamic routine |
 | 9  | ''| fast.ai lesson 6 | dynamic routine |
