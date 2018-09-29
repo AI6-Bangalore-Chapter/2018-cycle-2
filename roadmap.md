@@ -8,20 +8,20 @@
 | 2 | ''|Part2 deeplearning.ai  | dynamic routine | Session 2 |
 | 3  | ''| Part3 deeplearning.ai  |  NN (backprop) in numpy. Introduction to DL frameworks | Session 3 |
 | 4  |'' |fast.ai intro kit  | fast.ai lesson 1 | Session 4 |
-| 5  |'' | fast.ai lesson 2 |  Pytorch Fundamentals, NN in pytorch, multiclass-classification example | Session 4 |
-| 6  | ''| fast.ai lesson 3 |  Discussion on the Kaggle competition - Planet:Understanding Amazon from the Space|Session 5 |
-| 7  | ''|fast.ai lesson 4  | dynamic routine |Session 6 |
-| 8  | ''| fast.ai lesson 5 | dynamic routine |Session 7 |
-| 9  | ''| fast.ai lesson 6 | dynamic routine |Session 8 |
-| 10(Oct)  | ''|fast.ai lesson 7  | dynamic routine  |Session 9 |
-|  11  |'' |fast.ai lesson 8 | dynamic routine  |Session 10 |
-|  12 |'' |fast.ai lesson 9 | dynamic routine  |Session 11 |
-|  13 |'' |fast.ai lesson 10 | dynamic routine  |Session 12 |
-|  14 |'' |fast.ai lesson 11 | projects |Session 13 |
-|  15 |'' |fast.ai lesson 12 | projects |Session 14 |
-|  16 |'' |fast.ai lesson 13 | projects  |Session 15 |
-|  17 (Dec)|'' |fast.ai lesson 13 | projects  |Session 16 |
-|18 |''|projects |projects| Session 17 |
+| 5  |'' | fast.ai lesson 2 |  Pytorch Fundamentals, NN in pytorch, multiclass-classification example | Session 5 |
+| 6  | ''| fast.ai lesson 3 |  Discussion on the Kaggle competition - Planet:Understanding Amazon from the Space|Session 6 |
+| 7  | ''|fast.ai lesson 4  | dynamic routine |Session 7 |
+| 8  | ''| fast.ai lesson 5 | dynamic routine |Session 8 |
+| 9  | ''| fast.ai lesson 6 | dynamic routine |Session 9 |
+| 10(Oct)  | ''|fast.ai lesson 7  | dynamic routine  |Session 10 |
+|  11  |'' |fast.ai lesson 8 | dynamic routine  |Session 11 |
+|  12 |'' |fast.ai lesson 9 | dynamic routine  |Session 12 |
+|  13 |'' |fast.ai lesson 10 | dynamic routine  |Session 13 |
+|  14 |'' |fast.ai lesson 11 | projects |Session 14 |
+|  15 |'' |fast.ai lesson 12 | projects |Session 15 |
+|  16 |'' |fast.ai lesson 13 | projects  |Session 16 |
+|  17 (Dec)|'' |fast.ai lesson 13 | projects  |Session 17 |
+|18 |''|projects |projects| Session 18 |
 
 
 *dynamic routine corresponds to activity yet to be updated.
