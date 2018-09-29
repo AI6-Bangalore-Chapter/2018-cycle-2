@@ -5,8 +5,8 @@
 |---|----|---|---|---|
 |0| Introduction | Meet & Greet | Feedback | [Session 0](https://medium.com/ai-saturdays/ai-saturdays-bangalore-chapter-meet-and-greet-session-week-0-b0cf77e4ef70) |
 | 1  | Introduction, Previous week recap| Part1 deeplearning.ai  | Git demo, Numpy and Pandas exercises| [Session 1](https://medium.com/ai-saturdays/ai-saturdays-bangalore-chapter-week-1-reflections-35e3a91582e2) |
-| 2 | ''|Part2 deeplearning.ai  | dynamic routine | [Session 2] (https://medium.com/ai-saturdays/ai-saturdays-bangalore-chapter-week-2-reflections-1ab9d3205e0a?sk) |
-| 3  | ''| Part3 deeplearning.ai  |  NN (backprop) in numpy. Introduction to DL frameworks | [Session 3] (https://medium.com/ai-saturdays/ai-saturdays-week-3-its-not-too-late-58dde32148e9)|
+| 2 | ''|Part2 deeplearning.ai  | dynamic routine | [Session 2](https://medium.com/ai-saturdays/ai-saturdays-bangalore-chapter-week-2-reflections-1ab9d3205e0a?sk) |
+| 3  | ''| Part3 deeplearning.ai  |  NN (backprop) in numpy. Introduction to DL frameworks | [Session 3](https://medium.com/ai-saturdays/ai-saturdays-week-3-its-not-too-late-58dde32148e9) |
 | 4  |'' |fast.ai intro kit  | fast.ai lesson 1 | [Session 4](https://medium.com/@anweshsatapathy/ai-saturdays-bangalore-chapter-week-4-reflections-d2ebf4657c36) |
 | 5  |'' | fast.ai lesson 2 |  Pytorch Fundamentals, NN in pytorch, multiclass-classification example | Session 5 |
 | 6  | ''| fast.ai lesson 3 |  Discussion on the Kaggle competition - Planet:Understanding Amazon from the Space|Session 6 |
