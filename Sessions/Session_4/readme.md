@@ -58,6 +58,6 @@ Yes, this is the future. I think everybody agrees to that, as it serves as the m
 # Fastai Lesson 1
 
 
-# Please find shark and whale classification.
-https://github.com/satyajittarai/2018-cycle-2/blob/master/sharkwhale.ipynb
-I copied all code from you :)
+#### Participant's submissions:
+satyajittarai - https://github.com/satyajittarai/2018-cycle-2/blob/master/sharkwhale.ipynb
+
