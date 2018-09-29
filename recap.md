@@ -22,9 +22,9 @@ Yes, this is the future. I think everybody agrees to that, as it serves as the m
 ##### Basically whaterever we heard about AI in the news is mostly deep learning.
 ------
 
-### Deep learning is a branch of machine learning which deals with algorithims called neural netwroks.
+### Deep learning is a branch of machine learning which deals with algorithims called neural networks.
 
-#### Neural netwroks is basically a function approximator.
+#### Neural networks is basically a function approximator.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*bhFifratH9DjKqMBTeQG5A.gif)
 
