@@ -18,3 +18,7 @@
 #### Feedback Form :)
 [Link](https://goo.gl/forms/dC0qgSnRWeQSRFbR2)
 
+
+##### Other links
+[tf wihtout phd](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+
