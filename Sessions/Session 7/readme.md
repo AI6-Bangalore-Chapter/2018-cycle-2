@@ -28,4 +28,5 @@
 
 ##### Other links
 [tf wihtout phd](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+[kaggle - challenge](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
