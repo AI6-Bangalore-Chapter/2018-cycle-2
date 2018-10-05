@@ -1,6 +1,8 @@
 # Proposed Experiments
 
 1. Performance of different optimizers.
+2. Columnar data : kaggle competetion ([link](https://www.kaggle.com/c/competitive-data-science-predict-future-sales))
+3. Colabrative Filtering : Size of embedding vs accuracy
 
 ----
 # Other Experimnets
