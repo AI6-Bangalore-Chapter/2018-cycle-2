@@ -1,10 +1,10 @@
 # AI6 - Session 8
-
+----
 ## **Morning session**
 
-## RNN Basics, Langugage Modelling.
+### RNN Basics, Langugage Modelling.
 
-
+----
 ## **After-Noon Session**
 
 ## Collabrative Filtering from scratch (pytorch)
