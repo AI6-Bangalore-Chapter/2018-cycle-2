@@ -6,6 +6,7 @@
 
    1. [Notes](http://forums.fast.ai/t/deeplearning-lec4notes/8146)
    2. [Hands On Notebook](https://colab.research.google.com/drive/10a8OH70lw-VnrlZia6nMFrJvy0Vb7ZhL)
+   3. [Required files and trained weights](https://drive.google.com/file/d/1vL4mWSIzJzjNkLN4i-h9zYQyeL2YNGdN/view?usp=sharing)
    3. [Quick Run Notebook](https://github.com/vikbehal/fastai/blob/master/vik-lesson4-imdb.ipynb)
 
 ----
