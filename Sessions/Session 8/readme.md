@@ -4,6 +4,10 @@
 
 #### NLP Basics, Langugage Modelling.
 
+   1. [Notes](http://forums.fast.ai/t/deeplearning-lec4notes/8146)
+   2. [Quick Run Notebook](https://github.com/vikbehal/fastai/blob/master/vik-lesson4-imdb.ipynb)
+   3. 
+
 ----
 ## **After-Noon Session**
 
