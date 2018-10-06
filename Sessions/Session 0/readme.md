@@ -1,5 +1,4 @@
-# Week 0 
-[Link to medium blog](https://medium.com/p/b0cf77e4ef70/)
+# Week 0 [Link to medium blog](https://medium.com/p/b0cf77e4ef70/)
 
 The first session of AI Saturdays (cycle 2) was held at NVIDIA Complex, Bangalore on 4th August 2018. It was basically a meet and greet session and had lots of healthy interactions and enthusiastic discussions.
 
