@@ -23,3 +23,5 @@
 ### Resources
 
    - [Link to repo containg curated material](https://github.com/Sharwon/fastai-intro-kit)
+   - [Twiml ml meetup online](https://twimlai.com/meetup/)
+   - [Pytorch Dev,Edu 1.0](https://www.facebook.com/pytorch/videos/vl.486038211901583/169366590639145/?type=1)
