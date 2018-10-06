@@ -1,3 +1,5 @@
+# Week 3
+
 ### Schedule:
 <br>[10:00 - 11:30] deeplearning.ai 3rd Course</br>
 <br>[11:30 - 11:45] Short break</br>
