@@ -1,3 +1,4 @@
+# Week 1 [and here's the medium blog on what happened this week](https://medium.com/ai-saturdays/ai-saturdays-bangalore-chapter-week-1-reflections-35e3a91582e2)
 ### Schedule:
 <br>[9:30-10:00] Introduction, Addressing the road map.</br>
 <br>[10:00 - 10:30] Previous material run through (numpy, pandas, python)</br>
