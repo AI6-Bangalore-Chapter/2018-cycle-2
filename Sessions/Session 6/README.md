@@ -1,4 +1,4 @@
-# Week 6 (Fast.ai Week 3)
+# Week 6 (Fast.ai Week 3) [and here's the medium blog on what happened this week](https://medium.com/ai-saturdays/ai-saturdays-bangalore-chapter-everything-about-convolutions-week-6-390b694bf210)
 
 ## Video Summary:
 ##### 0:00 - Blogs and articles by fast.ai fellows:
