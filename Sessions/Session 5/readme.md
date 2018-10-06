@@ -1,4 +1,4 @@
-# AI 6 : Session 5
+# Week 5 
 
 #### Good Morning and welcome to the ai6 team.
 
