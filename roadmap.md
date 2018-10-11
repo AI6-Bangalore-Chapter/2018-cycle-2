@@ -10,8 +10,8 @@
 | 4  |'' |fast.ai intro kit  | fast.ai lesson 1 | [Session 4](https://medium.com/@anweshsatapathy/ai-saturdays-bangalore-chapter-week-4-reflections-d2ebf4657c36) |
 | 5  |'' | fast.ai lesson 2 |  Pytorch Fundamentals, NN in pytorch, multiclass-classification example | Session 5 |
 | 6  | ''| fast.ai lesson 3 |  Discussion on the Kaggle competition - Planet:Understanding Amazon from the Space|Session 6 |
-| 7  | ''|fast.ai lesson 4  | dynamic routine |Session 7 |
-| 8  | ''| fast.ai lesson 5 | dynamic routine |Session 8 |
+| 7  | ''|fast.ai lesson 4  | Rosman Dataset from kaggle & Intro to recommender systems |Session 7 |
+| 8  | ''| fast.ai lesson 5 | Collabrative filtering from scratch in pytorch |Session 8 |
 | 9  | ''| fast.ai lesson 6 | dynamic routine |Session 9 |
 | 10(Oct)  | ''|fast.ai lesson 7  | dynamic routine  |Session 10 |
 |  11  |'' |fast.ai lesson 8 | dynamic routine  |Session 11 |
