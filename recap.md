@@ -29,7 +29,7 @@ Yes, this is the future. I think everybody agrees to that, as it serves as the m
 ![](https://cdn-images-1.medium.com/max/2000/1*bhFifratH9DjKqMBTeQG5A.gif)
 
 #### Grandma's Recepie
-![](https://media.makeameme.org/created/mom-lets-eat.jpg)
+![](https://media.giphy.com/media/DNTxgzukJ0L84/giphy.gif)
 
 #### Simple neuron model
 ![](http://cs231n.github.io/assets/nn1/neuron_model.jpeg)
