@@ -5,7 +5,7 @@
 ##### Intro --> [recap](https://github.com/AI6-Bangalore-Chapter/2018-cycle-2/blob/master/recap.md)
 doubts?  
 
-##### NN XOR implementation keras, pytorch []()
+##### NN XOR implementation keras, pytorch [colab link](https://colab.research.google.com/github/Sharwon/fastai-intro-kit/blob/master/NN_simple_numpy_keras_pytorch.ipynb)
 doubts?
 
 ##### Rachel's talk in pytroch dev conference [video link](https://youtu.be/KJAnSyB6mME?t=4337)
