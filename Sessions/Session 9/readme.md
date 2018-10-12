@@ -5,8 +5,10 @@
 ##### Intro --> [recap](https://github.com/AI6-Bangalore-Chapter/2018-cycle-2/blob/master/recap.md)
 doubts?  
 
-##### NN XOR implementation keras, pytorch (link)[]  
-doubts? 
+##### NN XOR implementation keras, pytorch []()
+doubts?
+
+##### Rachel's talk in pytroch dev conference [video link](https://youtu.be/KJAnSyB6mME?t=4337)
 
 ## Afternoon Session  
 
