@@ -19,7 +19,7 @@ Yes, this is the future. I think everybody agrees to that, as it serves as the m
 ![](https://i.ytimg.com/vi/kL6J3y9ZCRQ/maxresdefault.jpg)
 
 ------
-##### Basically whaterever we heard about AI in the news is mostly deep learning.
+##### Basically whaterever we hear about AI in the news is mostly deep learning.
 ------
 
 ### Deep learning is a branch of machine learning which deals with algorithims called neural networks.
@@ -28,8 +28,15 @@ Yes, this is the future. I think everybody agrees to that, as it serves as the m
 
 ![](https://cdn-images-1.medium.com/max/2000/1*bhFifratH9DjKqMBTeQG5A.gif)
 
+#### Grandma's Recepie
+![](https://media.makeameme.org/created/mom-lets-eat.jpg)
+
+#### Simple neuron model
+![](http://cs231n.github.io/assets/nn1/neuron_model.jpeg)
+
 ##### How does it learn ?
 ![](http://4.bp.blogspot.com/_gHN52xJ15r0/RgaEzIYHyDI/AAAAAAAAADk/ChxceKbcouo/s1600/animate_ANN.gif)
 
+##### 
 
 ## Previous material run-through.
