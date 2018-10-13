@@ -13,7 +13,7 @@
 - 4:30 - Ddecoding resNet
 
 ##### 5:48 - Fast.ai course overview
-![](https://www.zerotosingularity.com/img/fast-ai-part-1-lesson-1-annotated-notes/fast-ai-part-1-course-structure.png)
+<picture>
 
 ##### 8:23 - Kaggle : Understanding the Amazon from space 
 - 9:00 - How to download data 
@@ -49,7 +49,20 @@
 - #### Deep Convolution networks (Inside-out)
 - #### Kaggle : Attempt an kaggle problem with an interesting dataset
 
+<meme>
+
 ---
+
+
+
+
+
+
+
+
+
+
+
 
 #### How does an computer understand an image
 ![](https://cdn-images-1.medium.com/max/1600/1*ccVO7341XIh7GfvzQS1IGw.png)
@@ -76,12 +89,11 @@ And if this set is big one, it's **Deep Convolution networks**, the deep learnin
 ## Convloutions in-depth: We'll look at a single convolution in action. Combinations of various of these convolutions results in various architectures.
 
 > ### Convolutions in-detail: 
-
+- #### Input : how do we take it?
+  - What does resnet take as input
 - #### strides & Padding
   - ##### Strides concept : 
     ![](https://github.com/vdumoulin/conv_arithmetic/raw/master/gif/no_padding_strides.gif)
-    - Why?
-      - Choosing based on the sparsity of information on the input
   - ##### Padding concept:
     ![](https://github.com/vdumoulin/conv_arithmetic/raw/master/gif/same_padding_no_strides.gif)
     - Why:
@@ -113,13 +125,20 @@ And if this set is big one, it's **Deep Convolution networks**, the deep learnin
   - adv and disadv
   - when to use what : In classifying cats vs. dogs, averaging over the image tells us "how doggy or catty is this image overall." Since a large part of these images are all dogs and cats, this would make sense. If you were using max pooling, you are simply finding "the most doggy or catty" part of the image, which probably isn't as useful. However, this may be useful in something like the fisheries competition, where the fish occupy only a small part of the picture.
 
+> ### 1x1 Conv:
+![](https://raw.githubusercontent.com/iamaaditya/iamaaditya.github.io/master/images/conv_arithmetic/full_padding_no_strides_transposed_small.gif)
+
 > ### Combining CNNs and FCNNs to do what we do : example of a deep CNN:
-![](https://github.com/AI6-Bangalore-Chapter/2018-cycle-2/blob/master/Sessions/Session_6/pretrained.png)
-- What
-- why
+![](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/4e2c0880b1c224d3bd88f52805f620c4c3dc882c/3-Figure1-1.png)
+
+- why we do this?
+- What happens when we do this?
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuoTnT4Y8L-yNM4o3RntbT0CbTyRXIjaSbpBIJsORHHhYpDH_x2Q)
+
 
 > ### what is ResNet and how is it different from a general deep CNN?
-![](https://cdn-images-1.medium.com/max/800/1*zS2ChIMwAqC5DQbL5yD9iQ.png)      
+![](https://cdn-images-1.medium.com/max/800/1*zS2ChIMwAqC5DQbL5yD9iQ.png) 
+
 
 ## Kaggle : ([Link for today's notebook](https://www.kaggle.com/suraj2596/ai6-blore-w6-fast-ai-lesson-3))
 - Planet competition
