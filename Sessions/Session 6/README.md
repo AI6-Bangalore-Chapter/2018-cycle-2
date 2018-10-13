@@ -148,6 +148,17 @@ And if this set is big one, it's **Deep Convolution networks**, the deep learnin
 
 ---
 
+### Questionare:
+1. Why is the size of Filter always odd?
+2. What id depth is very deep such that spatial dimensions are very small
+3. Why is zero-padding done and not anything else?
+4. Should images are alwysas squares?
+5. Can we use filters of different size in same layer?
+6. What if we don't pad?
+7. No. of parameters in 1 particular layer.
+
+---
+
 > ### Additional Reading:
 - [Understanding ResNet](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624)
 - [1D, 2D and 3D Convolutions](https://ifding.github.io/2018/05/24/1d-2d-and-3d-convolutions-in-cnn/)
