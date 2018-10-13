@@ -20,7 +20,7 @@ doubts??
 ### Embeddings, Collabrative Filtering Refresher [link](https://github.com/AI6-Bangalore-Chapter/2018-cycle-2/tree/master/Sessions/Session%207)  
 doubts??   
 doubts??   
-#### Improving Collabrative Filtering. [kaggle link](https://www.kaggle.com/sharwon/collaborative-filtering-form-scratch-pytorch?scriptVersionId=6443038)
+#### Improving Collabrative Filtering. [kaggle link](https://kaggle.com/sharwon/collaborative-filtering-form-scratch-pytorch?scriptVersionId=6443354)
 
 ### Other links
 Embedding paper
