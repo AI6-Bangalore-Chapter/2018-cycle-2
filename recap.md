@@ -1,4 +1,4 @@
-# AI6 : Session 6
+# AI6 Bangalore Chapter
 
 #### Good Morning and welcome to the ai6 team.
 
