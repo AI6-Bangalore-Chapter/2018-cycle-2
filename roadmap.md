@@ -11,7 +11,7 @@
 | 5  |'' | fast.ai lesson 2 |  Pytorch Fundamentals, NN in pytorch, multiclass-classification example | Session 5 |
 | 6  | ''| fast.ai lesson 3 |  Understanding Convolutions, Discussion on the Kaggle competition - Planet:Understanding Amazon from the Space|[Session 6](https://medium.com/ai-saturdays/ai-saturdays-bangalore-chapter-everything-about-convolutions-week-6-390b694bf210	) |
 | 7  | ''|fast.ai lesson 4  | Rosman Dataset from kaggle & Intro to recommender systems |Session 7 |
-| 8  | ''| fast.ai lesson 5 | Collabrative filtering from scratch in pytorch |Session 8 |
+| 8  | ''| fast.ai lesson 5 | Collaborative filtering from scratch in pytorch |Session 8 |
 | 9  | ''| fast.ai lesson 6 | Revision of embeddings in collaborative recommender systems & Pytorch fundamentals |Session 9 |
 | 10(Oct)  | ''|fast.ai lesson 7  | dynamic routine  |Session 10 |
 |  11  |'' |fast.ai lesson 8 | dynamic routine  |Session 11 |
