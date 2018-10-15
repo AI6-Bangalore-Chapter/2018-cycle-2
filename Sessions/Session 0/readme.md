@@ -4,9 +4,6 @@ The first session of AI Saturdays (cycle 2) was held at NVIDIA Complex, Bangalor
 
 The jupyter notebooks in the session 1 folder are useful introductory material.
 
-#### Following links are recommended for different purposes :
-
-The recording of the session can be accessed [here](https://www.youtube.com/watch?v=O-3PNcnpaPM).
 
 ### How fast is AI progressing
 [YouTube](https://youtu.be/mQO2PcEW9BY?t=22)
