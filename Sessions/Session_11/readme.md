@@ -10,6 +10,7 @@
 ### BUILDING NN MODEL WITH CIFAR
 
 ### CNN's ??
+- **Questionaire** ([link](file:///home/shar1/Downloads/lecture05.pdf))
 
 #### BREAK
 
