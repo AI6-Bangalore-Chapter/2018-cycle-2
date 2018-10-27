@@ -4,11 +4,8 @@
 ## Morning Session
 ########################
 
-### RNN RECAP
-
-
 ### BUILDING NN MODEL WITH CIFAR, form scratch
-
+[link](https://www.kaggle.com/sharwon/resnet-from-scratch)
 
 ### CNN's ??
 - **Questionaire** ([link](file:///home/shar1/Downloads/lecture05.pdf))
