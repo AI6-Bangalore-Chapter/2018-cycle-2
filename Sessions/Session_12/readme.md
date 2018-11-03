@@ -4,7 +4,7 @@
 
 
 Please refer lesson8_demo.ipynb notebook.
-
+[colab link](https://colab.research.google.com/drive/1ThwDB5M-CS-qHN4iOwV3VNy3z2-RiLrs)
 ----
 ## Afternoon Session
 
