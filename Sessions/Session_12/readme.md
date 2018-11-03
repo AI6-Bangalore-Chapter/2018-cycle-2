@@ -1,6 +1,6 @@
 # AI6 : Session 12
 ## Morning Session
-# Object Detection
+## Object Detection
 
 ----
 ## Afternoon Session
