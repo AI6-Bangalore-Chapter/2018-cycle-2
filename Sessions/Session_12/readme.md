@@ -2,7 +2,7 @@
 ## Morning Session
 ## Object Detection
 
-Please refer lesson8_demo.ipynb notebook
+Please refer lesson8_demo.ipynb notebook.
 
 ----
 ## Afternoon Session
