@@ -1,6 +1,8 @@
 # AI6 : Session 12
 ## Morning Session
 ## Object Detection
+![](https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwje9qqGsLfeAhUHLY8KHTekBEEQjRx6BAgBEAU&url=https%3A%2F%2Ftowardsdatascience.com%2Fbuilding-a-toy-detector-with-tensorflow-object-detection-api-63c0fdf2ac95&psig=AOvVaw1oBBWGPE43PVt02X77RGZL&ust=1541305350964475)
+
 
 Please refer lesson8_demo.ipynb notebook.
 
