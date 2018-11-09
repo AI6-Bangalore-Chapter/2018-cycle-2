@@ -1,8 +1,9 @@
 # Proposed Experiments
 
-1. Performance of different optimizers.
-2. Columnar data : kaggle competetion ([link](https://www.kaggle.com/c/competitive-data-science-predict-future-sales))
-3. Colabrative Filtering : Size of embedding vs accuracy
+1. Indian Image Net - Create a dataset from google images and classify [image-links]();[notebook]()
+2. Performance of different optimizers.
+3. Columnar data : kaggle competetion ([link](https://www.kaggle.com/c/competitive-data-science-predict-future-sales))
+4. Colabrative Filtering : Size of embedding vs accuracy
 
 ----
 # Other Experimnets
