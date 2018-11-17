@@ -64,3 +64,5 @@
 ###### [SSD](https://arxiv.org/abs/1512.02325)
 
 ###### [Lesson Notes](https://forums.fast.ai/t/part-2-lesson-9-wiki/14028)
+
+### [Python Session repo link](https://github.com/aman5319/AI6/blob/master/AI6-Python.ipynb)
