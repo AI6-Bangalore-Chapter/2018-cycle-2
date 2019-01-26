@@ -15,3 +15,4 @@ Task in which you are asked to assign some label to each pixel in the image, des
 ![Unet](https://www.researchgate.net/profile/Alan_Jackson9/publication/323597886/figure/fig2/AS:601386504957959@1520393124691/Convolutional-neural-network-CNN-architecture-based-on-UNET-Ronneberger-et-al.png)
 
 - Dyanmic Unet [link](https://github.com/fastai/fastai/blob/master/fastai/vision/models/unet.py)
+- Feedback [link](https://docs.google.com/forms/d/e/1FAIpQLSdxiTi64pntUhlRoo3SFMbOA5Sfu8i734-WS3eDrSnJ1YZ2jg/viewform)
