@@ -1,4 +1,5 @@
-# Week 4 [and here's the medium blog on what happened this week](https://medium.com/@anweshsatapathy/ai-saturdays-bangalore-chapter-week-4-reflections-d2ebf4657c36)
+# Week 4
+[and here's the medium blog on what happened this week](https://medium.com/@anweshsatapathy/ai-saturdays-bangalore-chapter-week-4-reflections-d2ebf4657c36)
 
 #### Good Morning and welcome to the ai6 team.
 
