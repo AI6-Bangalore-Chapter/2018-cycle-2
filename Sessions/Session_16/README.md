@@ -8,6 +8,7 @@
 ---
 ## Afternoon Session
 
+- Pytorch Cpp Inference
 - [pytorch](https://pytorch.org/)
 - [official tutorial](https://pytorch.org/tutorials/advanced/cpp_export.html)
 - [Github Repo : code](https://github.com/Sharwon/cpp-torch-cpu)
