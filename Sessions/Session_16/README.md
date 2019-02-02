@@ -3,5 +3,6 @@
 ## Morning Session
 
 - **RECAP : Image Segmentation** [link](https://github.com/AI6-Bangalore-Chapter/2018-cycle-2/tree/master/Sessions/Session_15)
+- [DCGAN](https://colab.research.google.com/drive/104ZyVORC6Ideua193G9LAgbB-ehZHrv3)
 ---
 ## Afternoon Session
